@@ -9,17 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: Shawn Choi's BigLOG
+subtitle: "//공사중//"
 email: hahacsw@gmail.com
-name: Ben Centra
+name: Choi SeongWoo
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  //공사중입니다.//
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://choiseongwoo.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -72,38 +72,38 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username:
+    url:
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username:
     url:
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username:
+    url:
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username:
+    url:
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus
     username:
     url:
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -114,17 +114,17 @@ social:
 
   - name: Instagram
     icon: instagram
-    username:
-    url:
+    username: shawn_sw
+    url: https://instagram.com/shawn_sw/
     desc: Follow me on Instagram
-    share: false
+    share: true
 
   - name: Pinterest
     icon: pinterest
     username:
     url:
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
